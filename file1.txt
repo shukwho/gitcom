@@ -11,3 +11,5 @@ add another line of code
 
 2025 in fix-bug - adding now this new merge
 
+adding line for stash command
+
